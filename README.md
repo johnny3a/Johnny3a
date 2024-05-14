@@ -1,16 +1,14 @@
-### Hi there 👋
+### boas vindas ao meu perfil.
 
-<!--
-**johnny3a/Johnny3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é johnny
 
-Here are some ideas to get you started:
+- Estou estudando no  [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na língua JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### você entar e contato comigo:
+
+- 00001105709413sp@al.educacao.sp.gov.br
+- @johnnyja
+
+![image](https://github.com/johnny3a/Johnny3a/assets/168473571/c2bfad2a-b202-48b1-b438-c463b7ce7580)
